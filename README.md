@@ -14,6 +14,12 @@ Feel free to reach out, using the following links:
 
 In August 2025, I began a vocational college program in AI and ML development at IT-högskolan (ITHS). 
 
+Want to read more about my program? Click the link below! 
+
+[![ITHS](https://img.shields.io/badge/ITHS-%23662246?style=for-the-badge&logoColor=white)](https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/)
+
+Note: The school's website is in Swedish.
+
 ## Technical Skills 
 
 The following are some of my technical skills, both acquired and skills I will learn during my program at ITHS. 
