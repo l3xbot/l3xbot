@@ -18,23 +18,19 @@ I'm an aspiring AI and machine learning developer with a special interest in pre
 
 - Data Analysis / Manipulation
 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 - Data Visualisation
 
-![MatPlotLib](https://img.shields.io/badge/MatPlotLib-%2365baea?style=for-the-badge&logoColor=white)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-%237db0bc?style=for-the-badge&logoColor=white)
-
-![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white)
+![MatPlotLib](https://img.shields.io/badge/MatPlotLib-%2365baea?style=for-the-badge&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%237db0bc?style=for-the-badge&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white)
 
 - Machine Learning / AI
 
-![Sklearn](https://img.shields.io/badge/Sklearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Sklearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Code Editors, Version Control, and Other Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  ![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Studio-%234daafc?style=for-the-badge&logoColor=white)
 
 
 
