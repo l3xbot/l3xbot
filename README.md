@@ -48,7 +48,8 @@ The following are some of my technical skills, both acquired and skills I will l
 
 
 
-
+[//]: # (Website where you can create badges: https://shields.io/badges)
+[//]: # (Website for the logos/icons in the badges: https://simpleicons.org/)
 
 
 
