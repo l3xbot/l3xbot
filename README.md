@@ -10,6 +10,8 @@ I'm an aspiring AI and machine learning developer with a special interest in pre
 
 ## Studies at IT-högskolan
 
+In August 2025, I began a vocational college program in AI and ML development at IT-högskolan. 
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-%232b5b84?style=for-the-badge&logo=python&logoColor=white)
