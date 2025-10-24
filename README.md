@@ -22,11 +22,16 @@ Note: The school's website is in Swedish.
 
 ## Technical Skills 
 
-The following are some of my technical skills, both acquired and skills I will learn during my program at ITHS. 
+The following are some of my technical skills, both already acquired skills and skills I will learn during my program at ITHS and in my free time. 
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-%232b5b84?style=for-the-badge&logo=python&logoColor=white)
+
+I've also started dabbling in: 
+
+![HTML](https://img.shields.io/badge/HTML-%233366CC?style=for-the-badge&logo=htmx&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 **Modules / Libraries (in Python)**
 
